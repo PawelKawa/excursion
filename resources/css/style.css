@@ -1,3 +1,41 @@
 body {
-    background-color: #333;
+    background-color: #000;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+}
+main a {
+    color: aquamarine;
+    display: flex;
+    justify-content: center;
+    font-size: 16px;
+}
+main h2 {
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 42px;
+}
+.video {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+main h3 {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    text-align: center;
+}
+main img {
+    display: block;
+    margin: 50px auto;
+}
+footer p {
+    color: gray;
+    text-align: right;
+    font-size: 20px;
 }
